@@ -5,4 +5,7 @@ draw a underline for UIButton title
 
 ### How To Use   
   将需要加下划线的Button类名修改为HyperlinksButton即可。   
-  setColor: 可以设置下划线颜色。
+  setColor: 可以设置下划线颜色。   
+### 示例图片
+  ![alt text][id]
+  [id]:./pic.gif "Title"
